@@ -19,27 +19,4 @@
       <p>Desenvolvedora apaixonada por tecnologia, com foco em soluções modernas usando Flutter, Golang, e tecnologias web.</p>
     </section>
 
-    <section class="projetos">
-      <h2>💼 Projetos</h2>
-      <div class="projeto">
-        <h3>Projeto Futuro 01</h3>
-        <p>Descrição breve sobre o projeto que usa Flutter para front-end e Go para API.</p>
-      </div>
-      <div class="projeto">
-        <h3>Projeto Backend 02</h3>
-        <p>API escalável desenvolvida com Golang para gestão de dados em tempo real.</p>
-      </div>
-    </section>
-
-    <section class="contato">
-      <h2>📬 Contato</h2>
-      <p>Email: <a href="mailto:lais.lucinda@email.com">lais.lucinda@email.com</a></p>
-      <p>GitHub: <a href="https://github.com/seuusuario" target="_blank">@seuusuario</a></p>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2025 Laís Lucinda</p>
-  </footer>
-</body>
-</html>
+  
